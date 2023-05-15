@@ -1,0 +1,13 @@
+Input:/home/Notebooks/HarryPotterFAU.mp4
+Input full path:/home/Notebooks/HarryPotterFAU.mp4
+Camera parameters:875,875,640,360
+Output HOG:HarryPotterFAU.hog
+Output video:HarryPotterFAU.avi
+Output aligned directory:HarryPotterFAU_aligned
+Output csv:HarryPotterFAU.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
